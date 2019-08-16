@@ -1,0 +1,2 @@
+# ConterStringOrChar
+计算String或Char中出现的次数
